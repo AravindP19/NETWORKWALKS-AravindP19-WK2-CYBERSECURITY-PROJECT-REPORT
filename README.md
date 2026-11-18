@@ -4,3 +4,11 @@ This report covers footprinting activities against target domains using multiple
 
 These phases demonstrate how to gather public intelligence to profile a target's web and network infrastructure, uncover publicly exposed data or vulnerable endpoints and map 
 the live hosts on a network.
+## Footprinting & Network Scanning Phases:
+| Field | Detail |
+|---|---|
+| **Tester Name ** | **Aravind P** |
+| **Modules completed** | W2-PM4 (theHarvester based Footprinting attacks)<br>W2-PM5 (Zenmap Scanning)<br>W2-PM5-FINAL (Report Writing) |
+| **Client/Target** | 1. Microsoft (microsoft.com)<br>2. Public Search Engines (OSINTs)<br>3. Local LAN network |
+| **Permission secured from client?** | Yes |
+| **Phases covered** | **Phase 1:** Reconnaissance & Footprinting<br>**Phase 2:** Scanning & Network Discovery<br>**Phase 3-5:** Done |

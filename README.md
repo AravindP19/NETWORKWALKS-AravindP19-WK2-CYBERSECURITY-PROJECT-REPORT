@@ -29,7 +29,7 @@ Activities were performed only on the systems where I had permission or that I o
 
 ## 3.1 OSINT Footprinting (microsoft.com)
 
-I also utilized theHarvester to perform broad OSINT collection against `microsoft.com`.
+I utilized theHarvester tool to perform broad OSINT collection against `microsoft.com`.
 -   Running `theHarvester -d microsoft.com -l 1000 -b all` revealed missing API keys for services like bevigil, Bitbucket and BuiltWith which limited the data sources available.
 -   A targeted search using `theHarvester -d microsoft.com -l 1000 -b baidu` yielded no IPs, emails, or hosts from the Baidu search engine.
 
